@@ -368,6 +368,7 @@ ul {
     border: 1px solid;
     border-color: #8D68F0;
     border-radius: 16px;
+    cursor: pointer;
 }
 
 .my_card:hover {
@@ -382,6 +383,7 @@ ul {
     background: #EFEFEF;
     flex-direction: column;
     height: 100%;
+    cursor: pointer;
     transition: all 500ms linear;
 }
 
@@ -406,6 +408,7 @@ ul {
     transition: all 500ms ease-in-out !important;
     display: flex;
     align-items: center;
+    cursor: pointer;
     justify-content: center;
 }
 
@@ -416,6 +419,7 @@ ul {
     transition: all 500ms linear;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
     height: 100%;
 }
 
@@ -445,6 +449,7 @@ ul {
     align-items: center;
     justify-content: center;
     background: #FFFFFF29;
+    cursor: pointer;
     border-radius: 16px;
     transition: all 500ms linear;
 }
