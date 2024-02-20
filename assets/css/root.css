@@ -5,6 +5,8 @@
     --fs-xl:40px;
     --color-black:#000000;
     --color-white:#FDFCFC;
+    --bg_gray: #EFEFEF;
+    
     --bg-grad:linear-gradient(130.88deg, #A854E9 -9.14%, #4F91FC 283.16%);
 }
 .fs-sm{
@@ -25,6 +27,9 @@
 }
 .color-white{
     color: var(--color-white);
+}
+.bg_gray{
+    background: var(--bg_gray);
 }
 .bg-grad{
     background: var(--bg-grad);
