@@ -131,7 +131,7 @@ p {
     height: 1px;
     width: 0;
     left: 0;
-    bottom: 08;
+    bottom: 0;
     background: linear-gradient(130.88deg, #A854E9 -9.14%, #4F91FC 283.16%);
     transition: all 300ms ease-in-out;
 }
